@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @segun05
-- 👀 I’m interested in cloud arcHitecture
-- 🌱 I’m currently learning oracle cloud
+- 👀 I’m interested in Data Analytics,ML and  cloud arcHitecture
+- 🌱 I’m currently learning Data Analytics,ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me segundaniels05@yahoo.com
 
