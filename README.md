@@ -10,13 +10,13 @@
   -  [Problem solving, Teamwork and Good communication]
 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures )](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Praciting DS & Algos in Python (ETL)
 
 - <b>SQL</b>
-  - [Praciting DS & Algos in Python]
+  - [Data processing with MSSql server]
 
 - <b>Data Visualization</b>
-  - [Image Analysis ] <b><i>(Potentially NSFW)</b></i>
+  - [Relationships and Trend analysis] <b><i>(Potentially NSFW)</b></i>
 
 - <b>Big Query</b>
 
