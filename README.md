@@ -1,10 +1,18 @@
 <h1>Hi, I'm olusegun!  
-  <a href="https://www.linkedin.com/in/olusegun-daniel-728991250/"> A Data Analyst: I tell stories and give actionable insight with data</a>
- <a href="(https://www.kaggle.com/work)> My projects</a>
+  
+ <b>  A Data Analyst: I tell stories and give actionable insight with data </b>
+ 
+- <a href="https://www.linkedin.com/in/olusegun-daniel-728991250/"> Linkedin profile </a>
+  
+  
+- <b>Project:<b>
+   -<a href="https://www.kaggle.com/work"> My Projects</a>
+  
 - <b>Key Skills:<b>
   -  Data analysis (SQL, Python)
   -  Data visualization (Tableau, Excel, Python tools)
   -  Process optimization
+  -  Machine Learning
   -  Supply chain analysis
   -  Trend identification and reporting
   -  Problem solving, Teamwork and Good communication
@@ -16,16 +24,16 @@
   - Data processing with MSSql server
 
 - <b>Data Visualization</b>
-  - [Relationships and Trend analysis] <b><i>(Potentially NSFW)</b></i>
+  - Relationships and Trend analysis 
 
 - <b>Big Query</b>
 
 
 - <b>Certifications</b>
-  - Google Data Analytics - Online](Excel,SQL,R Programing)
+  - Google Data Analytics - Online (Excel,SQL,R Programing)
   - DataCamp - Online](Understanding Machine Learning,Understanding Data science in Python,Data Visualization for Everyone- Credential ID #25,124,923)
-  - Data science with Python - Online](Python,SQL,Excel)
-
+  - Data Science with Python - Online (Python,SQL,Excel,)
+ 
 
 
 
